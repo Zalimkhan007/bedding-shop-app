@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#3d5a99"/>
+  <path d="M120 150 C120 128 136 116 158 118 C220 124 292 124 354 118 C376 116 392 128 392 150 L392 214 C392 236 376 248 354 246 C292 240 220 240 158 246 C136 248 120 236 120 214 Z" fill="#ffffff"/>
+  <text x="256" y="404" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="150" fill="#ffffff">BH</text>
+</svg>
